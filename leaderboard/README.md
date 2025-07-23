@@ -6,8 +6,8 @@ Recognition for our amazing community of **11** contributors! 🏆
 | **Rank** | **Contributor** | **Projects** | **Total Stars** |
 | -------------- | -------------- | ------------ | --------------- |
 | 🥇 1 | [soumyacodes007](https://github.com/soumyacodes007) | [soumyacodes007/AlcheAnimyst](https://github.com/soumyacodes007/AlcheAnimyst) (⭐17) | 17 |
-| 🥈 2 | [Ayash-Bera](https://github.com/Ayash-Bera) | [Ayash-Bera/socrates](https://github.com/Ayash-Bera/socrates) (⭐7) | 7 |
-| 🥉 3 | [Coden-inja](https://github.com/Coden-inja) | [Coden-inja/alchEmaiLyst](https://github.com/Coden-inja/alchEmaiLyst) (⭐7) | 7 |
+| 🥈 2 | [Coden-inja](https://github.com/Coden-inja) | [Coden-inja/alchEmaiLyst](https://github.com/Coden-inja/alchEmaiLyst) (⭐9) | 9 |
+| 🥉 3 | [Ayash-Bera](https://github.com/Ayash-Bera) | [Ayash-Bera/socrates](https://github.com/Ayash-Bera/socrates) (⭐7) | 7 |
 | 🌟 4 | [itsshresth](https://github.com/itsshresth) | [itsshresth/brainrot](https://github.com/itsshresth/brainrot) (⭐3), [itsshresth/dmdom](https://github.com/itsshresth/dmdom) (⭐2) | 5 |
 | 🌟 5 | [asengupta07](https://github.com/asengupta07) | [asengupta07/MASHire](https://github.com/asengupta07/MASHire) (⭐3) | 3 |
 | 🌟 6 | [haroon0x](https://github.com/haroon0x) | [haroon0x/CliAgent](https://github.com/haroon0x/CliAgent) (⭐1), [haroon0x/PromoAgent](https://github.com/haroon0x/PromoAgent) (⭐1), [haroon0x/CrawlWise](https://github.com/haroon0x/CrawlWise) (⭐1) | 3 |

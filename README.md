@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Platform-blue?style=for-the-badge&logo=artificial-intelligence" alt="AI Platform" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Community-14%20Projects-orange?style=for-the-badge" alt="Community Projects" />
+  <img src="https://img.shields.io/badge/Community-15%20Projects-orange?style=for-the-badge" alt="Community Projects" />
   <img src="https://img.shields.io/badge/Team-3%20Templates-purple?style=for-the-badge" alt="Team Templates" />
 </div>
 
@@ -151,7 +151,7 @@ This is an ever expanding list - we'll keep on adding open source templates!
 ### 🚀 Community Templates
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Community%20Templates-14%20Available-FF6B6B?style=for-the-badge" alt="Community Templates" />
+  <img src="https://img.shields.io/badge/Community%20Templates-15%20Available-FF6B6B?style=for-the-badge" alt="Community Templates" />
 </div>
 
 <br />
@@ -350,6 +350,20 @@ This is an ever expanding list - we'll keep on adding open source templates!
     <td>VC-Compass: An agent that matches startup pitches with relevant VCs by scraping investor data, detecting pitch domains, and evaluating fit using Alchemyst AI.</td>
     <td>
       <img src="https://img.shields.io/badge/vc-blue?style=flat-square" alt="vc" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/saksham-1304/AskMyPDF">
+        <img src="https://img.shields.io/badge/AskMyPDF-1f2937?style=for-the-badge&logo=github" alt="AskMyPDF" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/saksham-1304/AskMyPDF?style=social" alt="Stars" />
+    </td>
+    <td> an AI-powered MERN application enabling intelligent, real-time PDF conversations via a Google Gemini RAG pipeline and Qdrant semantic search with a sleek React/TypeScript glassmorphism UI.</td>
+    <td>
+      -
     </td>
   </tr>
   <tr>

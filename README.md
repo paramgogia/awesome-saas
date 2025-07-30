@@ -361,7 +361,7 @@ This is an ever expanding list - we'll keep on adding open source templates!
     <td align="center">
       <img src="https://img.shields.io/github/stars/saksham-1304/AskMyPDF?style=social" alt="Stars" />
     </td>
-    <td> an AI-powered MERN application enabling intelligent, real-time PDF conversations via a Google Gemini RAG pipeline and Qdrant semantic search with a sleek React/TypeScript glassmorphism UI.</td>
+    <td>🤖 AI-Powered PDF Chat App | Dual AI Engine (Alchemyst + Gemini) | RAG Pipeline | Vector Search | MERN + TypeScript</td>
     <td>
       -
     </td>

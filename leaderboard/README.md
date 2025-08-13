@@ -5,7 +5,7 @@ Recognition for our amazing community of **12** contributors! 🏆
 
 | **Rank** | **Contributor** | **Projects** | **Total Stars** |
 | -------------- | -------------- | ------------ | --------------- |
-| 🥇 1 | [Coden-inja](https://github.com/Coden-inja) | [Coden-inja/alchEmaiLyst](https://github.com/Coden-inja/alchEmaiLyst) (⭐29) | 29 |
+| 🥇 1 | [Coden-inja](https://github.com/Coden-inja) | [Coden-inja/alchEmaiLyst](https://github.com/Coden-inja/alchEmaiLyst) (⭐30) | 30 |
 | 🥈 2 | [soumyacodes007](https://github.com/soumyacodes007) | [soumyacodes007/AlcheAnimyst](https://github.com/soumyacodes007/AlcheAnimyst) (⭐17) | 17 |
 | 🥉 3 | [saksham-1304](https://github.com/saksham-1304) | [saksham-1304/AskMyPDF](https://github.com/saksham-1304/AskMyPDF) (⭐7) | 7 |
 | 🌟 4 | [Ayash-Bera](https://github.com/Ayash-Bera) | [Ayash-Bera/socrates](https://github.com/Ayash-Bera/socrates) (⭐7) | 7 |

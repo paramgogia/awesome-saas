@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Platform-blue?style=for-the-badge&logo=artificial-intelligence" alt="AI Platform" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Community-15%20Projects-orange?style=for-the-badge" alt="Community Projects" />
+  <img src="https://img.shields.io/badge/Community-17%20Projects-orange?style=for-the-badge" alt="Community Projects" />
   <img src="https://img.shields.io/badge/Team-3%20Templates-purple?style=for-the-badge" alt="Team Templates" />
 </div>
 
@@ -151,7 +151,7 @@ This is an ever expanding list - we'll keep on adding open source templates!
 ### 🚀 Community Templates
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Community%20Templates-15%20Available-FF6B6B?style=for-the-badge" alt="Community Templates" />
+  <img src="https://img.shields.io/badge/Community%20Templates-17%20Available-FF6B6B?style=for-the-badge" alt="Community Templates" />
 </div>
 
 <br />
@@ -340,6 +340,21 @@ This is an ever expanding list - we'll keep on adding open source templates!
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/KhushiMhasange/Twitter-lead">
+        <img src="https://img.shields.io/badge/Twitter--lead-1f2937?style=for-the-badge&logo=github" alt="Twitter-lead" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/KhushiMhasange/Twitter-lead?style=social" alt="Stars" />
+    </td>
+    <td>Let's You Find People Interested in your product or work</td>
+    <td>
+      <img src="https://img.shields.io/badge/social-blue?style=flat-square" alt="social" />
+      <img src="https://img.shields.io/badge/twitter-green?style=flat-square" alt="twitter" />
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/mayank-sengar/VC_Compass">
         <img src="https://img.shields.io/badge/VC_Compass-1f2937?style=for-the-badge&logo=github" alt="VC_Compass" />
       </a>
@@ -378,6 +393,21 @@ This is an ever expanding list - we'll keep on adding open source templates!
     <td>AI tool that turns your written prompts or code into 2D animated videos with sound. Powered by Alchemyst AI</td>
     <td>
       -
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/srivathsav999/crm-agent">
+        <img src="https://img.shields.io/badge/crm--agent-1f2937?style=for-the-badge&logo=github" alt="crm-agent" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/srivathsav999/crm-agent?style=social" alt="Stars" />
+    </td>
+    <td>A modern, full-stack Customer Relationship Management (CRM) system built with Node.js, MongoDB, and React. This system allows you to efficiently manage leads and contacts with a clean, intuitive interface.</td>
+    <td>
+      <img src="https://img.shields.io/badge/b2b-blue?style=flat-square" alt="b2b" />
+      <img src="https://img.shields.io/badge/crm-green?style=flat-square" alt="crm" />
     </td>
   </tr></table>
 

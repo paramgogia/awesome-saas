@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Platform-blue?style=for-the-badge&logo=artificial-intelligence" alt="AI Platform" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Community-17%20Projects-orange?style=for-the-badge" alt="Community Projects" />
+  <img src="https://img.shields.io/badge/Community-18%20Projects-orange?style=for-the-badge" alt="Community Projects" />
   <img src="https://img.shields.io/badge/Team-3%20Templates-purple?style=for-the-badge" alt="Team Templates" />
 </div>
 
@@ -151,7 +151,7 @@ This is an ever expanding list - we'll keep on adding open source templates!
 ### 🚀 Community Templates
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Community%20Templates-17%20Available-FF6B6B?style=for-the-badge" alt="Community Templates" />
+  <img src="https://img.shields.io/badge/Community%20Templates-18%20Available-FF6B6B?style=for-the-badge" alt="Community Templates" />
 </div>
 
 <br />
@@ -365,6 +365,20 @@ This is an ever expanding list - we'll keep on adding open source templates!
     <td>VC-Compass: An agent that matches startup pitches with relevant VCs by scraping investor data, detecting pitch domains, and evaluating fit using Alchemyst AI.</td>
     <td>
       <img src="https://img.shields.io/badge/vc-blue?style=flat-square" alt="vc" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Rustix69/HackerNews-Podcast">
+        <img src="https://img.shields.io/badge/HackerNews--Podcast-1f2937?style=for-the-badge&logo=github" alt="HackerNews-Podcast" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/Rustix69/HackerNews-Podcast?style=social" alt="Stars" />
+    </td>
+    <td>This is a Agentic AI which tracks the latest post of a user and make a podcast convo on the basis of the YC News Portal.</td>
+    <td>
+      -
     </td>
   </tr>
   <tr>

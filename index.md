@@ -4,8 +4,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Platform-blue?style=for-the-badge&logo=artificial-intelligence" alt="AI Platform" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Community-18%20Projects-orange?style=for-the-badge" alt="Community Projects" />
-  <img src="https://img.shields.io/badge/Team-3%20Templates-purple?style=for-the-badge" alt="Team Templates" />
+  <img src="https://img.shields.io/badge/Community-19%20Projects-orange?style=for-the-badge" alt="Community Projects" />
+  <img src="https://img.shields.io/badge/Team-4%20Templates-purple?style=for-the-badge" alt="Team Templates" />
 </div>
 
 <div align="center">
@@ -83,7 +83,7 @@ curl -X GET https://platform.getalchemystai.com/api/v1/
 ### 💡 Official Templates
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Official%20Templates-3%20Available-4F46E5?style=for-the-badge" alt="Official Templates" />
+  <img src="https://img.shields.io/badge/Official%20Templates-4%20Available-4F46E5?style=for-the-badge" alt="Official Templates" />
 </div>
 
 <br />
@@ -94,6 +94,21 @@ curl -X GET https://platform.getalchemystai.com/api/v1/
     <th width="100">⭐ Stars</th>
     <th width="400">📝 Description</th>
     <th width="150">🏷️ Topics</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Alchemyst-ai/agent0-email">
+        <img src="https://img.shields.io/badge/agent0--email-1f2937?style=for-the-badge&logo=github" alt="agent0-email" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/Alchemyst-ai/agent0-email?style=social" alt="Stars" />
+    </td>
+    <td>Agentic email automation for your email inboxes, built from the ground up with no dependencies on 3rd party providers</td>
+    <td>
+      <img src="https://img.shields.io/badge/email-blue?style=flat-square" alt="email" />
+      <img src="https://img.shields.io/badge/marketing-green?style=flat-square" alt="marketing" />
+    </td>
   </tr>
   <tr>
     <td>
@@ -151,7 +166,7 @@ This is an ever expanding list - we'll keep on adding open source templates!
 ### 🚀 Community Templates
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Community%20Templates-18%20Available-FF6B6B?style=for-the-badge" alt="Community Templates" />
+  <img src="https://img.shields.io/badge/Community%20Templates-19%20Available-FF6B6B?style=for-the-badge" alt="Community Templates" />
 </div>
 
 <br />
@@ -422,6 +437,21 @@ This is an ever expanding list - we'll keep on adding open source templates!
     <td>
       <img src="https://img.shields.io/badge/b2b-blue?style=flat-square" alt="b2b" />
       <img src="https://img.shields.io/badge/crm-green?style=flat-square" alt="crm" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/srivathsav999/email-agent">
+        <img src="https://img.shields.io/badge/email--agent-1f2937?style=for-the-badge&logo=github" alt="email-agent" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/srivathsav999/email-agent?style=social" alt="Stars" />
+    </td>
+    <td>AI-powered email management system with automated replies and email generation.</td>
+    <td>
+      <img src="https://img.shields.io/badge/b2b-blue?style=flat-square" alt="b2b" />
+      <img src="https://img.shields.io/badge/email-agent-green?style=flat-square" alt="email-agent" />
     </td>
   </tr></table>
 

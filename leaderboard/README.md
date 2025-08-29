@@ -1,7 +1,7 @@
 
 # Alchemyst Platform Community Leaderboard
 
-Recognition for our amazing community of **14** contributors! 🏆
+Recognition for our amazing community of **15** contributors! 🏆
 
 | **Rank** | **Contributor** | **Projects** | **Total Stars** |
 | -------------- | -------------- | ------------ | --------------- |
@@ -14,9 +14,10 @@ Recognition for our amazing community of **14** contributors! 🏆
 | 🌟 7 | [asengupta07](https://github.com/asengupta07) | [asengupta07/MASHire](https://github.com/asengupta07/MASHire) (⭐4) | 4 |
 | 🌟 8 | [mayank-sengar](https://github.com/mayank-sengar) | [mayank-sengar/VC_Compass](https://github.com/mayank-sengar/VC_Compass) (⭐2) | 2 |
 | 🌟 9 | [Ayushjo](https://github.com/Ayushjo) | [Ayushjo/CodeNarratorWhole](https://github.com/Ayushjo/CodeNarratorWhole) (⭐1) | 1 |
-| 🌟 10 | [hatif03](https://github.com/hatif03) | [hatif03/travel_mcp_agent](https://github.com/hatif03/travel_mcp_agent) (⭐0) | 0 |
-| 🌟 11 | [KhushiMhasange](https://github.com/KhushiMhasange) | [KhushiMhasange/Twitter-lead](https://github.com/KhushiMhasange/Twitter-lead) (⭐0) | 0 |
-| 🌟 12 | [kash2104](https://github.com/kash2104) | [kash2104/insureai](https://github.com/kash2104/insureai) (⭐0) | 0 |
-| 🌟 13 | [srivathsav999](https://github.com/srivathsav999) | [srivathsav999/crm-agent](https://github.com/srivathsav999/crm-agent) (⭐0) | 0 |
-| 🌟 14 | [foxy-dev1](https://github.com/foxy-dev1) | [foxy-dev1/Telegram-MemeGenerator-Bot](https://github.com/foxy-dev1/Telegram-MemeGenerator-Bot) (⭐0) | 0 |
+| 🌟 10 | [KhushiMhasange](https://github.com/KhushiMhasange) | [KhushiMhasange/Twitter-lead](https://github.com/KhushiMhasange/Twitter-lead) (⭐0) | 0 |
+| 🌟 11 | [kash2104](https://github.com/kash2104) | [kash2104/insureai](https://github.com/kash2104/insureai) (⭐0) | 0 |
+| 🌟 12 | [srivathsav999](https://github.com/srivathsav999) | [srivathsav999/crm-agent](https://github.com/srivathsav999/crm-agent) (⭐0) | 0 |
+| 🌟 13 | [foxy-dev1](https://github.com/foxy-dev1) | [foxy-dev1/Telegram-MemeGenerator-Bot](https://github.com/foxy-dev1/Telegram-MemeGenerator-Bot) (⭐0) | 0 |
+| 🌟 14 | [hatif03](https://github.com/hatif03) | [hatif03/travel_mcp_agent](https://github.com/hatif03/travel_mcp_agent) (⭐0) | 0 |
+| 🌟 15 | [Rustix69](https://github.com/Rustix69) | [Rustix69/HackerNews-Podcast](https://github.com/Rustix69/HackerNews-Podcast) (⭐0) | 0 |
 

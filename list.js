@@ -120,14 +120,14 @@ const preMessageForTeam = (count) => {
   </tr>`;
 };
 
-const preMessageForCommunity = (count) => {
+const preMessageForCommunity = (count, stars) => {
   return `
 <br />
 
 ### 🚀 Community Templates
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Community%20Templates-${count}%20Available-FF6B6B?style=for-the-badge" alt="Community Templates" />
+  <img src="https://img.shields.io/badge/Community%20Templates-${count}%20(Total%20${stars}%20stars)-FF6B6B?style=for-the-badge" alt="Community Templates" />
 </div>
 
 <br />
@@ -278,7 +278,11 @@ const gatherReposFromCommunity = () => {
         .filter(entry => !entry.full_name.toLowerCase().startsWith("alchemyst-ai"))
         .sort((a, b) => a.full_name.localeCompare(b.full_name));
 
-      gatheredCommunityRepoInfo += preMessageForCommunity(communityRepos.length);
+      const communityStargazersCount = communityRepoData.reduce((acc, curr) => {
+        return acc + curr.stargazers_count;
+      }, 0)
+
+      gatheredCommunityRepoInfo += preMessageForCommunity(communityRepos.length, communityStargazersCount);
 
       communityRepos.forEach((entry) => {
         const topics = processTags(entry.topics);

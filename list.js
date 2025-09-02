@@ -278,7 +278,7 @@ const gatherReposFromCommunity = () => {
         .filter(entry => !entry.full_name.toLowerCase().startsWith("alchemyst-ai"))
         .sort((a, b) => a.full_name.localeCompare(b.full_name));
 
-      const communityStargazersCount = communityRepoData.reduce((acc, curr) => {
+      const communityStargazersCount = communityRepos.reduce((acc, curr) => {
         return acc + curr.stargazers_count;
       }, 0)
 

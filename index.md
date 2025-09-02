@@ -166,7 +166,7 @@ This is an ever expanding list - we'll keep on adding open source templates!
 ### 🚀 Community Templates
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Community%20Templates-19%20Available-FF6B6B?style=for-the-badge" alt="Community Templates" />
+  <img src="https://img.shields.io/badge/Community%20Templates-19%20(Total%20105%20stars)-FF6B6B?style=for-the-badge" alt="Community Templates" />
 </div>
 
 <br />
@@ -393,7 +393,8 @@ This is an ever expanding list - we'll keep on adding open source templates!
     </td>
     <td>This is a Agentic AI which tracks the latest post of a user and make a podcast convo on the basis of the YC News Portal.</td>
     <td>
-      -
+      <img src="https://img.shields.io/badge/b2b-blue?style=flat-square" alt="b2b" />
+      <img src="https://img.shields.io/badge/marketing-green?style=flat-square" alt="marketing" />
     </td>
   </tr>
   <tr>

@@ -11,8 +11,8 @@ Recognition for our amazing community of **15** contributors! 🏆
 | 🌟 4 | [Ayash-Bera](https://github.com/Ayash-Bera) | [Ayash-Bera/socrates](https://github.com/Ayash-Bera/socrates) (⭐7) | 7 |
 | 🌟 5 | [itsshresth](https://github.com/itsshresth) | [itsshresth/brainrot](https://github.com/itsshresth/brainrot) (⭐3), [itsshresth/dmdom](https://github.com/itsshresth/dmdom) (⭐2) | 5 |
 | 🌟 6 | [haroon0x](https://github.com/haroon0x) | [haroon0x/CrawlWise](https://github.com/haroon0x/CrawlWise) (⭐3), [haroon0x/CliAgent](https://github.com/haroon0x/CliAgent) (⭐1), [haroon0x/PromoAgent](https://github.com/haroon0x/PromoAgent) (⭐1) | 5 |
-| 🌟 7 | [srivathsav999](https://github.com/srivathsav999) | [srivathsav999/email-agent](https://github.com/srivathsav999/email-agent) (⭐4), [srivathsav999/crm-agent](https://github.com/srivathsav999/crm-agent) (⭐0) | 4 |
-| 🌟 8 | [asengupta07](https://github.com/asengupta07) | [asengupta07/MASHire](https://github.com/asengupta07/MASHire) (⭐4) | 4 |
+| 🌟 7 | [asengupta07](https://github.com/asengupta07) | [asengupta07/MASHire](https://github.com/asengupta07/MASHire) (⭐4) | 4 |
+| 🌟 8 | [srivathsav999](https://github.com/srivathsav999) | [srivathsav999/email-agent](https://github.com/srivathsav999/email-agent) (⭐4), [srivathsav999/crm-agent](https://github.com/srivathsav999/crm-agent) (⭐0) | 4 |
 | 🌟 9 | [mayank-sengar](https://github.com/mayank-sengar) | [mayank-sengar/VC_Compass](https://github.com/mayank-sengar/VC_Compass) (⭐2) | 2 |
 | 🌟 10 | [Ayushjo](https://github.com/Ayushjo) | [Ayushjo/CodeNarratorWhole](https://github.com/Ayushjo/CodeNarratorWhole) (⭐1) | 1 |
 | 🌟 11 | [KhushiMhasange](https://github.com/KhushiMhasange) | [KhushiMhasange/Twitter-lead](https://github.com/KhushiMhasange/Twitter-lead) (⭐0) | 0 |

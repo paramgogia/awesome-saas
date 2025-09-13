@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Platform-blue?style=for-the-badge&logo=artificial-intelligence" alt="AI Platform" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Community-19%20Projects-orange?style=for-the-badge" alt="Community Projects" />
+  <img src="https://img.shields.io/badge/Community-10%20Projects-orange?style=for-the-badge" alt="Community Projects" />
   <img src="https://img.shields.io/badge/Team-4%20Templates-purple?style=for-the-badge" alt="Team Templates" />
 </div>
 
@@ -166,7 +166,7 @@ This is an ever expanding list - we'll keep on adding open source templates!
 ### 🚀 Community Templates
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Community%20Templates-19%20(Total%2089%20stars)-FF6B6B?style=for-the-badge" alt="Community Templates" />
+  <img src="https://img.shields.io/badge/Community%20Templates-10%20(Total%2073%20stars)-FF6B6B?style=for-the-badge" alt="Community Templates" />
 </div>
 
 <br />
@@ -192,20 +192,6 @@ This is an ever expanding list - we'll keep on adding open source templates!
       <img src="https://img.shields.io/badge/hiring-blue?style=flat-square" alt="hiring" />
       <img src="https://img.shields.io/badge/hr-green?style=flat-square" alt="hr" />
       <img src="https://img.shields.io/badge/recruitment-purple?style=flat-square" alt="recruitment" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ayash-Bera/socrates">
-        <img src="https://img.shields.io/badge/socrates-1f2937?style=for-the-badge&logo=github" alt="socrates" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/Ayash-Bera/socrates?style=social" alt="Stars" />
-    </td>
-    <td>Deep Research bot made using alchemyst</td>
-    <td>
-      <img src="https://img.shields.io/badge/socrates-blue?style=flat-square" alt="socrates" />
     </td>
   </tr>
   <tr>
@@ -269,50 +255,6 @@ This is an ever expanding list - we'll keep on adding open source templates!
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/haroon0x/CrawlWise">
-        <img src="https://img.shields.io/badge/CrawlWise-1f2937?style=for-the-badge&logo=github" alt="CrawlWise" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/haroon0x/CrawlWise?style=social" alt="Stars" />
-    </td>
-    <td>CrawlWise – The GEOAgent</td>
-    <td>
-      <img src="https://img.shields.io/badge/geo-blue?style=flat-square" alt="geo" />
-      <img src="https://img.shields.io/badge/seo-green?style=flat-square" alt="seo" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/haroon0x/PromoAgent">
-        <img src="https://img.shields.io/badge/PromoAgent-1f2937?style=for-the-badge&logo=github" alt="PromoAgent" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/haroon0x/PromoAgent?style=social" alt="Stars" />
-    </td>
-    <td>PromoAgent: An autonomous agent built with LangGraph using Alchemyst AI that discovers marketing opportunities on Reddit, generates tailored content and posts replies without getting blocked.</td>
-    <td>
-      <img src="https://img.shields.io/badge/marketing-blue?style=flat-square" alt="marketing" />
-      <img src="https://img.shields.io/badge/promotion-green?style=flat-square" alt="promotion" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/hatif03/travel_mcp_agent">
-        <img src="https://img.shields.io/badge/travel_mcp_agent-1f2937?style=for-the-badge&logo=github" alt="travel_mcp_agent" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/hatif03/travel_mcp_agent?style=social" alt="Stars" />
-    </td>
-    <td>plan your travel with ai.</td>
-    <td>
-      <img src="https://img.shields.io/badge/travel-blue?style=flat-square" alt="travel" />
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://github.com/itsshresth/brainrot">
         <img src="https://img.shields.io/badge/brainrot-1f2937?style=for-the-badge&logo=github" alt="brainrot" />
       </a>
@@ -341,35 +283,6 @@ This is an ever expanding list - we'll keep on adding open source templates!
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/kash2104/insureai">
-        <img src="https://img.shields.io/badge/insureai-1f2937?style=for-the-badge&logo=github" alt="insureai" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/kash2104/insureai?style=social" alt="Stars" />
-    </td>
-    <td>Upload your insurance documents and discover similar plans—all securely and efficiently.</td>
-    <td>
-      <img src="https://img.shields.io/badge/medical-insurance-blue?style=flat-square" alt="medical-insurance" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/KhushiMhasange/Twitter-lead">
-        <img src="https://img.shields.io/badge/Twitter--lead-1f2937?style=for-the-badge&logo=github" alt="Twitter-lead" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/KhushiMhasange/Twitter-lead?style=social" alt="Stars" />
-    </td>
-    <td>Let's You Find People Interested in your product or work</td>
-    <td>
-      <img src="https://img.shields.io/badge/social-blue?style=flat-square" alt="social" />
-      <img src="https://img.shields.io/badge/twitter-green?style=flat-square" alt="twitter" />
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://github.com/mayank-sengar/VC_Compass">
         <img src="https://img.shields.io/badge/VC_Compass-1f2937?style=for-the-badge&logo=github" alt="VC_Compass" />
       </a>
@@ -380,21 +293,6 @@ This is an ever expanding list - we'll keep on adding open source templates!
     <td>VC-Compass: An agent that matches startup pitches with relevant VCs by scraping investor data, detecting pitch domains, and evaluating fit using Alchemyst AI.</td>
     <td>
       <img src="https://img.shields.io/badge/vc-blue?style=flat-square" alt="vc" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Rustix69/HackerNews-Podcast">
-        <img src="https://img.shields.io/badge/HackerNews--Podcast-1f2937?style=for-the-badge&logo=github" alt="HackerNews-Podcast" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/Rustix69/HackerNews-Podcast?style=social" alt="Stars" />
-    </td>
-    <td>This is a Agentic AI which tracks the latest post of a user and make a podcast convo on the basis of the YC News Portal.</td>
-    <td>
-      <img src="https://img.shields.io/badge/b2b-blue?style=flat-square" alt="b2b" />
-      <img src="https://img.shields.io/badge/marketing-green?style=flat-square" alt="marketing" />
     </td>
   </tr>
   <tr>
@@ -423,36 +321,6 @@ This is an ever expanding list - we'll keep on adding open source templates!
     <td>AI tool that turns your written prompts or code into 2D animated videos with sound. Powered by Alchemyst AI</td>
     <td>
       -
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/srivathsav999/crm-agent">
-        <img src="https://img.shields.io/badge/crm--agent-1f2937?style=for-the-badge&logo=github" alt="crm-agent" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/srivathsav999/crm-agent?style=social" alt="Stars" />
-    </td>
-    <td>A modern, full-stack Customer Relationship Management (CRM) system built with Node.js, MongoDB, and React. This system allows you to efficiently manage leads and contacts with a clean, intuitive interface.</td>
-    <td>
-      <img src="https://img.shields.io/badge/b2b-blue?style=flat-square" alt="b2b" />
-      <img src="https://img.shields.io/badge/crm-green?style=flat-square" alt="crm" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/srivathsav999/email-agent">
-        <img src="https://img.shields.io/badge/email--agent-1f2937?style=for-the-badge&logo=github" alt="email-agent" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/srivathsav999/email-agent?style=social" alt="Stars" />
-    </td>
-    <td>AI-powered email management system with automated replies and email generation.</td>
-    <td>
-      <img src="https://img.shields.io/badge/b2b-blue?style=flat-square" alt="b2b" />
-      <img src="https://img.shields.io/badge/email-agent-green?style=flat-square" alt="email-agent" />
     </td>
   </tr></table>
 

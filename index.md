@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Platform-blue?style=for-the-badge&logo=artificial-intelligence" alt="AI Platform" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Community-10%20Projects-orange?style=for-the-badge" alt="Community Projects" />
+  <img src="https://img.shields.io/badge/Community-13%20Projects-orange?style=for-the-badge" alt="Community Projects" />
   <img src="https://img.shields.io/badge/Team-4%20Templates-purple?style=for-the-badge" alt="Team Templates" />
 </div>
 
@@ -166,7 +166,7 @@ This is an ever expanding list - we'll keep on adding open source templates!
 ### 🚀 Community Templates
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Community%20Templates-10%20(Total%2073%20stars)-FF6B6B?style=for-the-badge" alt="Community Templates" />
+  <img src="https://img.shields.io/badge/Community%20Templates-13%20(Total%2078%20stars)-FF6B6B?style=for-the-badge" alt="Community Templates" />
 </div>
 
 <br />
@@ -297,6 +297,21 @@ This is an ever expanding list - we'll keep on adding open source templates!
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/Rustix69/HackerNews-Podcast">
+        <img src="https://img.shields.io/badge/HackerNews--Podcast-1f2937?style=for-the-badge&logo=github" alt="HackerNews-Podcast" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/Rustix69/HackerNews-Podcast?style=social" alt="Stars" />
+    </td>
+    <td>This is a Agentic AI which tracks the latest post of a user and make a podcast convo on the basis of the YC News Portal.</td>
+    <td>
+      <img src="https://img.shields.io/badge/b2b-blue?style=flat-square" alt="b2b" />
+      <img src="https://img.shields.io/badge/marketing-green?style=flat-square" alt="marketing" />
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/saksham-1304/AskMyPDF">
         <img src="https://img.shields.io/badge/AskMyPDF-1f2937?style=for-the-badge&logo=github" alt="AskMyPDF" />
       </a>
@@ -321,6 +336,36 @@ This is an ever expanding list - we'll keep on adding open source templates!
     <td>AI tool that turns your written prompts or code into 2D animated videos with sound. Powered by Alchemyst AI</td>
     <td>
       -
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/srivathsav999/crm-agent">
+        <img src="https://img.shields.io/badge/crm--agent-1f2937?style=for-the-badge&logo=github" alt="crm-agent" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/srivathsav999/crm-agent?style=social" alt="Stars" />
+    </td>
+    <td>A modern, full-stack Customer Relationship Management (CRM) system built with Node.js, MongoDB, and React. This system allows you to efficiently manage leads and contacts with a clean, intuitive interface.</td>
+    <td>
+      <img src="https://img.shields.io/badge/b2b-blue?style=flat-square" alt="b2b" />
+      <img src="https://img.shields.io/badge/crm-green?style=flat-square" alt="crm" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/srivathsav999/email-agent">
+        <img src="https://img.shields.io/badge/email--agent-1f2937?style=for-the-badge&logo=github" alt="email-agent" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/srivathsav999/email-agent?style=social" alt="Stars" />
+    </td>
+    <td>AI-powered email management system with automated replies and email generation.</td>
+    <td>
+      <img src="https://img.shields.io/badge/b2b-blue?style=flat-square" alt="b2b" />
+      <img src="https://img.shields.io/badge/email-agent-green?style=flat-square" alt="email-agent" />
     </td>
   </tr></table>
 

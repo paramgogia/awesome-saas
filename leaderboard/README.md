@@ -12,8 +12,8 @@ Recognition for our amazing community of **11** contributors! 🏆
 | 🌟 5 | [itsshresth](https://github.com/itsshresth) | [itsshresth/brainrot](https://github.com/itsshresth/brainrot) (⭐3), [itsshresth/dmdom](https://github.com/itsshresth/dmdom) (⭐2) | 5 |
 | 🌟 6 | [asengupta07](https://github.com/asengupta07) | [asengupta07/MASHire](https://github.com/asengupta07/MASHire) (⭐4) | 4 |
 | 🌟 7 | [mayank-sengar](https://github.com/mayank-sengar) | [mayank-sengar/VC_Compass](https://github.com/mayank-sengar/VC_Compass) (⭐2) | 2 |
-| 🌟 8 | [Ayushjo](https://github.com/Ayushjo) | [Ayushjo/CodeNarratorWhole](https://github.com/Ayushjo/CodeNarratorWhole) (⭐1) | 1 |
-| 🌟 9 | [haroon0x](https://github.com/haroon0x) | [haroon0x/CliAgent](https://github.com/haroon0x/CliAgent) (⭐1) | 1 |
+| 🌟 8 | [haroon0x](https://github.com/haroon0x) | [haroon0x/CliAgent](https://github.com/haroon0x/CliAgent) (⭐1) | 1 |
+| 🌟 9 | [Ayushjo](https://github.com/Ayushjo) | [Ayushjo/CodeNarratorWhole](https://github.com/Ayushjo/CodeNarratorWhole) (⭐1) | 1 |
 | 🌟 10 | [Rustix69](https://github.com/Rustix69) | [Rustix69/HackerNews-Podcast](https://github.com/Rustix69/HackerNews-Podcast) (⭐0) | 0 |
 | 🌟 11 | [foxy-dev1](https://github.com/foxy-dev1) | [foxy-dev1/Telegram-MemeGenerator-Bot](https://github.com/foxy-dev1/Telegram-MemeGenerator-Bot) (⭐0) | 0 |
 

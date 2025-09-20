@@ -41,7 +41,7 @@ const learnMore = () => {
         <sub><b>Interactive API Explorer</b></sub>
       </td>
       <td align="center" width="33%">
-        <a href="https://alchemyst-ai.github.io/technical-docs" target="_blank">
+        <a href="https://docs.getalchemystai.com" target="_blank">
           <img src="https://img.shields.io/badge/API-Documentation-4FC08D?style=for-the-badge&logo=gitbook&logoColor=white" alt="API Docs" />
         </a>
         <br />

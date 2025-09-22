@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Platform-blue?style=for-the-badge&logo=artificial-intelligence" alt="AI Platform" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Community-13%20Projects-orange?style=for-the-badge" alt="Community Projects" />
+  <img src="https://img.shields.io/badge/Community-19%20Projects-orange?style=for-the-badge" alt="Community Projects" />
   <img src="https://img.shields.io/badge/Team-4%20Templates-purple?style=for-the-badge" alt="Team Templates" />
 </div>
 
@@ -56,13 +56,13 @@
         <br />
         <sub><b>Technical Documentation</b></sub>
       </td>
-      <td align="center" width="33%">
+      <!-- <td align="center" width="33%">
         <a href="https://zendocs.getalchemystai.com" target="_blank">
           <img src="https://img.shields.io/badge/AI--native-Documentation-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" alt="AI-native" />
         </a>
         <br />
         <sub><b>AI-Powered Docs</b></sub>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
@@ -166,7 +166,7 @@ This is an ever expanding list - we'll keep on adding open source templates!
 ### 🚀 Community Templates
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Community%20Templates-13%20(Total%2078%20stars)-FF6B6B?style=for-the-badge" alt="Community Templates" />
+  <img src="https://img.shields.io/badge/Community%20Templates-19%20(Total%2089%20stars)-FF6B6B?style=for-the-badge" alt="Community Templates" />
 </div>
 
 <br />
@@ -192,6 +192,20 @@ This is an ever expanding list - we'll keep on adding open source templates!
       <img src="https://img.shields.io/badge/hiring-blue?style=flat-square" alt="hiring" />
       <img src="https://img.shields.io/badge/hr-green?style=flat-square" alt="hr" />
       <img src="https://img.shields.io/badge/recruitment-purple?style=flat-square" alt="recruitment" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ayash-Bera/socrates">
+        <img src="https://img.shields.io/badge/socrates-1f2937?style=for-the-badge&logo=github" alt="socrates" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/Ayash-Bera/socrates?style=social" alt="Stars" />
+    </td>
+    <td>Deep Research bot made using alchemyst</td>
+    <td>
+      <img src="https://img.shields.io/badge/socrates-blue?style=flat-square" alt="socrates" />
     </td>
   </tr>
   <tr>
@@ -255,6 +269,50 @@ This is an ever expanding list - we'll keep on adding open source templates!
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/haroon0x/CrawlWise">
+        <img src="https://img.shields.io/badge/CrawlWise-1f2937?style=for-the-badge&logo=github" alt="CrawlWise" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/haroon0x/CrawlWise?style=social" alt="Stars" />
+    </td>
+    <td>CrawlWise – The GEOAgent</td>
+    <td>
+      <img src="https://img.shields.io/badge/geo-blue?style=flat-square" alt="geo" />
+      <img src="https://img.shields.io/badge/seo-green?style=flat-square" alt="seo" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/haroon0x/PromoAgent">
+        <img src="https://img.shields.io/badge/PromoAgent-1f2937?style=for-the-badge&logo=github" alt="PromoAgent" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/haroon0x/PromoAgent?style=social" alt="Stars" />
+    </td>
+    <td>PromoAgent: An autonomous agent built with LangGraph using Alchemyst AI that discovers marketing opportunities on Reddit, generates tailored content and posts replies without getting blocked.</td>
+    <td>
+      <img src="https://img.shields.io/badge/marketing-blue?style=flat-square" alt="marketing" />
+      <img src="https://img.shields.io/badge/promotion-green?style=flat-square" alt="promotion" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/hatif03/travel_mcp_agent">
+        <img src="https://img.shields.io/badge/travel_mcp_agent-1f2937?style=for-the-badge&logo=github" alt="travel_mcp_agent" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/hatif03/travel_mcp_agent?style=social" alt="Stars" />
+    </td>
+    <td>plan your travel with ai.</td>
+    <td>
+      <img src="https://img.shields.io/badge/travel-blue?style=flat-square" alt="travel" />
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/itsshresth/brainrot">
         <img src="https://img.shields.io/badge/brainrot-1f2937?style=for-the-badge&logo=github" alt="brainrot" />
       </a>
@@ -279,6 +337,35 @@ This is an ever expanding list - we'll keep on adding open source templates!
     <td>generates cold dms , by getting information about target's bio and recent tweets and user intent of dmming</td>
     <td>
       <img src="https://img.shields.io/badge/dm-blue?style=flat-square" alt="dm" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/kash2104/insureai">
+        <img src="https://img.shields.io/badge/insureai-1f2937?style=for-the-badge&logo=github" alt="insureai" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/kash2104/insureai?style=social" alt="Stars" />
+    </td>
+    <td>Upload your insurance documents and discover similar plans—all securely and efficiently.</td>
+    <td>
+      <img src="https://img.shields.io/badge/medical-insurance-blue?style=flat-square" alt="medical-insurance" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/KhushiMhasange/Twitter-lead">
+        <img src="https://img.shields.io/badge/Twitter--lead-1f2937?style=for-the-badge&logo=github" alt="Twitter-lead" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/KhushiMhasange/Twitter-lead?style=social" alt="Stars" />
+    </td>
+    <td>Let's You Find People Interested in your product or work</td>
+    <td>
+      <img src="https://img.shields.io/badge/social-blue?style=flat-square" alt="social" />
+      <img src="https://img.shields.io/badge/twitter-green?style=flat-square" alt="twitter" />
     </td>
   </tr>
   <tr>

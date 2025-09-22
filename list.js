@@ -47,13 +47,13 @@ const learnMore = () => {
         <br />
         <sub><b>Technical Documentation</b></sub>
       </td>
-      <td align="center" width="33%">
+      <!-- <td align="center" width="33%">
         <a href="https://zendocs.getalchemystai.com" target="_blank">
           <img src="https://img.shields.io/badge/AI--native-Documentation-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" alt="AI-native" />
         </a>
         <br />
         <sub><b>AI-Powered Docs</b></sub>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>

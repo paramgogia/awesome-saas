@@ -30,7 +30,7 @@ If your repo doesn’t show up:
 - ✅ Repo is public  
 - ✅ You added the `alchemyst-awesome-saas` topic  
 - ✅ Wait until the next automatic refresh
-- ✅ If still missing, open an issue in the `awesome-saas` repo  
+- ✅ If still missing, [**raise an issue**](https://github.com/Alchemyst-ai/awesome-saas/issues/new)
 
 ---
 

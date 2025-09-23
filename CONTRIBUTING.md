@@ -8,9 +8,10 @@ Thanks for wanting to contribute! This repo is a curated collection of templates
 
 You don’t need to fork this repo unless you want to modify the docs itself. Just do the following for your own repo:
 
-1. Make your repository **public** and ensure it's relevant.  
-2. **Add the topic/tag** `alchemyst-awesome-saas` and other relevant tags to your repository.   
-3. Wait - Awesome-SaaS has an automatic/daily refresh (early morning) that picks up repos with the `alchemyst-awesome-saas` topic and adds them to the listing.  
+1. Find an issue and add a comment to the issue, maintainers will then review and assign you that issue.
+2. Make your repository **public** and ensure it's relevant.  
+3. **Add the topic/tag** `alchemyst-awesome-saas` and other relevant tags to your repository.   
+4. Wait - Awesome-SaaS has an automatic/daily refresh (early morning) that picks up repos with the `alchemyst-awesome-saas` topic and adds them to the listing.  
 
 ---
 

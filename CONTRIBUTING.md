@@ -6,7 +6,7 @@ Thanks for wanting to contribute! This repo is a curated collection of templates
 
 ## 📌 How to Contribute
 
-You don’t need to fork this repo. Just do the following for your own repo:
+You don’t need to fork this repo unless you want to modify the docs itself. Just do the following for your own repo:
 
 1. Make your repository **public** and ensure it's relevant.  
 2. **Add the topic/tag** `alchemyst-awesome-saas` and other relevant tags to your repository.   

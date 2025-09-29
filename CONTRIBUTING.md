@@ -8,10 +8,14 @@ Thanks for wanting to contribute! This repo is a curated collection of templates
 
 Here’s how you can get started:
 
-1. **Fork/clone** this repository.  
-2. Inside the `agents/` folder, **create a new folder** with a clear name for your agent.  
-3. Add your agent code, README, and any supporting files in that folder.  
-4. Commit your changes and **submit a Pull Request (PR)** to this repo.  
+1. Find an issue and add a comment to the issue, and let us know what you are working on.
+2. **Fork/clone** the main repository.  
+3. Inside the `agents/` folder, **create a new folder** with a descriptive name for your agent.  
+4. Add:
+   - Your **agent code**  
+   - A **README.md** explaining what it does, how to run it, and any dependencies  
+   - Any required config files (e.g., `requirements.txt`, `package.json`)  
+5. Commit your changes and **open a Pull Request (PR)**.  
 
 That’s it! Once reviewed, your contribution will be merged and showcased.
 

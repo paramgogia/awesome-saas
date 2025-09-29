@@ -27,13 +27,14 @@ agents/
 
 ## 📌 How to Add Your Agent
 
-1. **Fork/clone** the main repository.  
-2. Inside the `agents/` folder, **create a new folder** with a descriptive name for your agent.  
-3. Add:
+1. Find an issue and add a comment to the issue, and let us know what you are working on.
+2. **Fork/clone** the main repository.  
+3. Inside the `agents/` folder, **create a new folder** with a descriptive name for your agent.  
+4. Add:
    - Your **agent code**  
    - A **README.md** explaining what it does, how to run it, and any dependencies  
    - Any required config files (e.g., `requirements.txt`, `package.json`)  
-4. Commit your changes and **open a Pull Request (PR)**.  
+5. Commit your changes and **open a Pull Request (PR)**.  
 
 ---
 
